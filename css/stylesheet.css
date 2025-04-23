@@ -1,0 +1,11 @@
+ol {
+  color: white;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+li {
+  margin: 16px;
+}
